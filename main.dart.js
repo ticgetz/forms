@@ -39126,7 +39126,7 @@ $1(a){var s,r,q=null,p=this.a
 p=p<700?p:p*0.6
 s=A.aou(q,q,q,q,q,q,q)
 r=t.E
-return A.iX(A.mw(B.dy,A.b([A.w6(A.b([A.cq("Form Response Submitted!!",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,26,q,q,B.bo,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.xm("assets/success.png",q),A.bS(q,12,q),A.cq("Thank you for signing up for the BETA program!!",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,18,q,q,B.z,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bS(q,5,q),A.cq("Your response has been recorded!! Our team will be in touch with you shortly",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,16,q,q,B.z,q,q,!0,q,q,q,q,q,q,q,q),B.eE,q)],r),B.aW,B.d4,B.c4),new A.dJ(B.lJ,A.a9Z(A.b([A.cq("Powered by",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bS(q,q,12),A.xm("ed_astra_lt.png",130)],r),B.aW,B.d4,B.c4),q)],r),B.V,B.ca),B.G,B.k,q,this.b-s.fx.b,q,q,p)},
+return A.iX(A.mw(B.dy,A.b([A.w6(A.b([A.cq("Form Response Submitted!!",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,26,q,q,B.bo,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.xm("assets/success.png",q),A.bS(q,12,q),A.cq("Thank you for signing up for the BETA program!!",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,18,q,q,B.z,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bS(q,5,q),A.cq("Your response has been recorded!! Our team will be in touch with you shortly",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,16,q,q,B.z,q,q,!0,q,q,q,q,q,q,q,q),B.eE,q)],r),B.aW,B.d4,B.c4),new A.dJ(B.lJ,A.a9Z(A.b([A.cq("Powered by",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bS(q,q,12),A.xm("assets/ed_astra_lt.png",130)],r),B.aW,B.d4,B.c4),q)],r),B.V,B.ca),B.G,B.k,q,this.b-s.fx.b,q,q,p)},
 $S:189}
 A.ajh.prototype={
 $1(a){var s=this.a,r=this.b,q=this.c
@@ -39140,7 +39140,7 @@ $1(a){var s,r,q=null,p=this.a
 p=p<700?p:p*0.6
 s=A.aou(q,q,q,q,q,q,q)
 r=t.E
-return A.iX(A.mw(B.dy,A.b([A.nz(new A.vR(q,q,q,q,q,q,q),q,q),new A.dJ(B.lJ,A.a9Z(A.b([A.cq("Powered by",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bS(q,q,12),A.xm("ed_astra_lt.png",130)],r),B.aW,B.d4,B.c4),q)],r),B.V,B.ca),B.G,B.k,q,this.b-s.fx.b,q,q,p)},
+return A.iX(A.mw(B.dy,A.b([A.nz(new A.vR(q,q,q,q,q,q,q),q,q),new A.dJ(B.lJ,A.a9Z(A.b([A.cq("Powered by",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bS(q,q,12),A.xm("assets/ed_astra_lt.png",130)],r),B.aW,B.d4,B.c4),q)],r),B.V,B.ca),B.G,B.k,q,this.b-s.fx.b,q,q,p)},
 $S:189}
 A.aje.prototype={
 $1(c8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3=null,b4="Device Details",b5=this.b,b6=b5*0.03,b7=A.bS(b3,b6,b3),b8=A.qd(new A.aD(8,8)),b9=this.c,c0=b9<700,c1=A.xm("assets/banner.jpeg",c0?b9*0.94:b9*0.4),c2=A.bS(b3,b6,b3),c3=c0?b9*0.94:b9*0.4,c4=A.cc(b3,b3,B.l,b3,b3,b3,b3,b3,b3,b3,b3,16,b3,b3,b3,b3,b3,!0,b3,0.9,b3,b3,b3,b3,b3,b3),c5=A.ch(b3,b3,b3,b3,"By filling this form you are signing up to become a part of the BETA testing user group for ticgetz, you also agree to our "),c6=A.acJ(b3,b3),c7=this.a
@@ -39194,7 +39194,7 @@ a9=A.bS(b3,b6,b3)
 b0=A.cq("Thank you for choosing to signing up for the BETA program!! Our team will be in touch with you shortly",b3,b3,b3,A.cc(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,16,b3,b3,B.z,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3)
 b1=A.bS(b3,b5*0.029,b3)
 b2=A.qd(new A.aD(8,8))
-return A.w6(A.b([b7,new A.Gu(b8,c1,b3),c2,A.bS(A.w6(A.b([c4,c6,s,r,q,o,n,m,l,k,j,i,h,p,g,f,e,d,b,a,a0,a1,a2,c,a3,a4,a5,a6,a7,a8,a9,b0,b1,new A.Hy(new A.ajc(c7),b3,b3,b3,A.aDy(b3,b3,B.H3,b3,b3,b3,b3,b3,b3,b3,b3,new A.I(c0?b9*0.92:300,46),b3,b3,new A.cX(b2,B.r),b3,b3,b3,b3),b3,b3,!1,b3,!0,b3,A.cq("Submit Form",b3,b3,b3,A.cc(b3,b3,B.k,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3),b3),A.bS(b3,b5*0.07,b3),A.a9Z(A.b([A.cq("Powered by",b3,b3,b3,A.cc(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,16,b3,b3,b3,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3),A.bS(b3,b3,12),A.xm("ed_astra_lt.png",130)],c5),B.aW,B.d4,B.c4),A.bS(b3,b6,b3)],c5),B.co,B.bI,B.c4),b3,c3)],c5),B.aW,B.bI,B.c4)},
+return A.w6(A.b([b7,new A.Gu(b8,c1,b3),c2,A.bS(A.w6(A.b([c4,c6,s,r,q,o,n,m,l,k,j,i,h,p,g,f,e,d,b,a,a0,a1,a2,c,a3,a4,a5,a6,a7,a8,a9,b0,b1,new A.Hy(new A.ajc(c7),b3,b3,b3,A.aDy(b3,b3,B.H3,b3,b3,b3,b3,b3,b3,b3,b3,new A.I(c0?b9*0.92:300,46),b3,b3,new A.cX(b2,B.r),b3,b3,b3,b3),b3,b3,!1,b3,!0,b3,A.cq("Submit Form",b3,b3,b3,A.cc(b3,b3,B.k,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3),b3),A.bS(b3,b5*0.07,b3),A.a9Z(A.b([A.cq("Powered by",b3,b3,b3,A.cc(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,16.1,b3,b3,b3,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3),A.bS(b3,b3,12),A.xm("assets/ed_astra_lt.png",130)],c5),B.aW,B.d4,B.c4),A.bS(b3,b6,b3)],c5),B.co,B.bI,B.c4),b3,c3)],c5),B.aW,B.bI,B.c4)},
 $S:397}
 A.aja.prototype={
 $0(){var s=window.open("https://ticgetz.com/#/policies/privacy_policy","_blank")
