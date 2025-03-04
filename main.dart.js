@@ -39143,7 +39143,7 @@ r=t.E
 return A.iX(A.mw(B.dy,A.b([A.nz(new A.vR(q,q,q,q,q,q,q),q,q),new A.dJ(B.lJ,A.a9Z(A.b([A.cq("Powered by",q,q,q,A.cc(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.bS(q,q,12),A.xm("assets/ed_astra_lt.png",130)],r),B.aW,B.d4,B.c4),q)],r),B.V,B.ca),B.G,B.k,q,this.b-s.fx.b,q,q,p)},
 $S:189}
 A.aje.prototype={
-$1(c8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3=null,b4="Device Details",b5=this.b,b6=b5*0.03,b7=A.bS(b3,b6,b3),b8=A.qd(new A.aD(8,8)),b9=this.c,c0=b9<700,c1=A.xm("assets/banner.jpeg",c0?b9*0.94:b9*0.4),c2=A.bS(b3,b6,b3),c3=c0?b9*0.94:b9*0.4,c4=A.cc(b3,b3,B.l,b3,b3,b3,b3,b3,b3,b3,b3,16,b3,b3,b3,b3,b3,!0,b3,0.9,b3,b3,b3,b3,b3,b3),c5=A.ch(b3,b3,b3,b3,"By filling this form you are signing up to become a part of the BETA testing user group for ticgetz, you also agree to our "),c6=A.acJ(b3,b3),c7=this.a
+$1(c8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3=null,b4="Device Details",b5=this.b,b6=b5*0.03,b7=A.bS(b3,b6,b3),b8=A.qd(new A.aD(8,8)),b9=this.c,c0=b9<700,c1=A.xm("assets/banner.png",c0?b9*0.94:b9*0.4),c2=A.bS(b3,b6,b3),c3=c0?b9*0.94:b9*0.4,c4=A.cc(b3,b3,B.l,b3,b3,b3,b3,b3,b3,b3,b3,16,b3,b3,b3,b3,b3,!0,b3,0.9,b3,b3,b3,b3,b3,b3),c5=A.ch(b3,b3,b3,b3,"By filling this form you are signing up to become a part of the BETA testing user group for ticgetz, you also agree to our "),c6=A.acJ(b3,b3),c7=this.a
 c6.aR=new A.aja(c7)
 c4=A.a9Q(b3,b3,b3,B.cG,b3,b3,!0,b3,A.ch(A.b([c5,A.ch(b3,B.bh,c6,A.cc(b3,b3,B.ia,b3,B.jR,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),"Privacy Policy"),A.ch(b3,b3,b3,b3,", in accordance with which we will process yor data!!")],t.VO),b3,b3,c4,b3),B.aS,b3,b3,B.ac,B.aT)
 c6=A.bS(b3,12,b3)
@@ -39182,7 +39182,7 @@ a4=A.bS(b3,b6,b3)
 a5=A.cq("Which browsers do you have installed ?",b3,b3,b3,A.cc(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,18,b3,b3,B.bo,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3)
 a6=A.cq("Select all that is applicable (Phone and Laptop)",b3,b3,b3,A.cc(b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,13,b3,b3,B.z,b3,b3,!0,b3,b3,b3,b3,b3,b3,b3,b3),b3,b3)
 a7=A.bS(b3,b5*0.018,b3)
-a8=c0?b9*0.65:b9*0.25
+a8=c0?b9*0.78:b9*0.25
 a9=c7.d
 b0=A.o(a9).i("bb<1>")
 b0=A.ot(new A.bb(a9,b0),new A.ajb(c7),b0.i("k.E"),t.al)
